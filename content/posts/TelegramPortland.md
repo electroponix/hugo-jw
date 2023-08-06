@@ -14,8 +14,8 @@ categories: ["CapsBlog"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
-featuredImage: "https://home-5013997399.app-ionos.space/img/"
-featuredImageImage: "https://home-5013997399.app-ionos.space/img/"
+featuredImage: "https://jeffwiegand.online/img/"
+featuredImageImage: "https://jeffwiegand.online/img/"
 
 toc:
   enable: true

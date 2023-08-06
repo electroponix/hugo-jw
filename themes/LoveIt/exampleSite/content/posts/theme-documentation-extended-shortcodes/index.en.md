@@ -410,10 +410,10 @@ The `person` shortcode has the following named parameters:
 Example `person` input:
 
 ```markdown
-{{</* person url="https://evgenykuznetsov.org" name="Evgeny Kuznetsov" nick="nekr0z" text="author of this shortcode" picture="https://evgenykuznetsov.orghttps://home-5013997399.app-ionos.space/img/avatar.jpg" */>}}
+{{</* person url="https://evgenykuznetsov.org" name="Evgeny Kuznetsov" nick="nekr0z" text="author of this shortcode" picture="https://evgenykuznetsov.orghttps://jeffwiegand.online/img/avatar.jpg" */>}}
 ```
 
-This renders as {{< person url="https://evgenykuznetsov.org" name="Evgeny Kuznetsov" nick="nekr0z" text="author of this shortcode" picture="https://evgenykuznetsov.orghttps://home-5013997399.app-ionos.space/img/avatar.jpg" >}}.
+This renders as {{< person url="https://evgenykuznetsov.org" name="Evgeny Kuznetsov" nick="nekr0z" text="author of this shortcode" picture="https://evgenykuznetsov.orghttps://jeffwiegand.online/img/avatar.jpg" >}}.
 
 Without an explicitly given picture, a generic icon is used. This input:
 

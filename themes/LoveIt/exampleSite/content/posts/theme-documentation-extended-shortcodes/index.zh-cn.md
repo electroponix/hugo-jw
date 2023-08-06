@@ -405,10 +405,10 @@ console.log('Hello LoveIt!');
 一个 `person` 示例:
 
 ```markdown
-{{</* person url="https://evgenykuznetsov.org" name="Evgeny Kuznetsov" nick="nekr0z" text="author of this shortcode" picture="https://evgenykuznetsov.orghttps://home-5013997399.app-ionos.space/img/avatar.jpg" */>}}
+{{</* person url="https://evgenykuznetsov.org" name="Evgeny Kuznetsov" nick="nekr0z" text="author of this shortcode" picture="https://evgenykuznetsov.orghttps://jeffwiegand.online/img/avatar.jpg" */>}}
 ```
 
-呈现的输出效果为 {{< person url="https://evgenykuznetsov.org" name="Evgeny Kuznetsov" nick="nekr0z" text="author of this shortcode" picture="https://evgenykuznetsov.orghttps://home-5013997399.app-ionos.space/img/avatar.jpg" >}}.
+呈现的输出效果为 {{< person url="https://evgenykuznetsov.org" name="Evgeny Kuznetsov" nick="nekr0z" text="author of this shortcode" picture="https://evgenykuznetsov.orghttps://jeffwiegand.online/img/avatar.jpg" >}}.
 
 一个使用通用图标的 `person` 示例:
 

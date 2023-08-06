@@ -1,7 +1,7 @@
 ---
 date: 2017-04-14T11:25:05-04:00
 description: "Esmeralda"
-featured_Image: "https://home-5013997399.app-ionos.space/img//images/esmeralda.jpg"
+featured_Image: "https://jeffwiegand.online/img//images/esmeralda.jpg"
 tags: []
 title: "Chapter VI: Esmeralda"
 disable_share: false

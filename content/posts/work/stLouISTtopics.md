@@ -14,8 +14,8 @@ categories: ["CapsBlog","stLouIST","STLduJour"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
-featuredImage: "https://home-5013997399.app-ionos.space/img/work/PrettyCodeHead.png"
-featuredImageImage: "https://home-5013997399.app-ionos.space/img/work/PrettyCodeHead.png"
+featuredImage: "https://jeffwiegand.online/img/work/PrettyCodeHead.png"
+featuredImageImage: "https://jeffwiegand.online/img/work/PrettyCodeHead.png"
 
 toc:
   enable: true

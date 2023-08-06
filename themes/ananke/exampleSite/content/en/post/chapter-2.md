@@ -1,7 +1,7 @@
 ---
 date: 2017-04-10T11:00:59-04:00
 description: "Pierre Gringoire"
-featured_Image: "https://home-5013997399.app-ionos.space/img/"
+featured_Image: "https://jeffwiegand.online/img/"
 tags: []
 title: "Chapter II: Pierre Gringoire"
 ---

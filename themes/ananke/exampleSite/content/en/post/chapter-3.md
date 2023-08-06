@@ -1,7 +1,7 @@
 ---
 date: 2017-04-11T11:13:32-04:00
 description: "Monsieur the Cardinal"
-featured_Image: "https://home-5013997399.app-ionos.space/img/"
+featured_Image: "https://jeffwiegand.online/img/"
 tags: []
 title: "Chapter III: Monsieur the Cardinal"
 ---

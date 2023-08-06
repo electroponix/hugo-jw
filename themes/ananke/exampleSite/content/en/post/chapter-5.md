@@ -1,7 +1,7 @@
 ---
 date: 2017-04-13T11:15:58-04:00
 description: "Quasimodo"
-featured_Image: "https://home-5013997399.app-ionos.space/img/"
+featured_Image: "https://jeffwiegand.online/img/"
 tags: []
 title: "Chapter V: Quasimodo"
 ---

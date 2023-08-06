@@ -14,8 +14,8 @@ categories: ["Live"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
-featuredImage: "https://home-5013997399.app-ionos.space/img/Keanu5foldPath/KeanuBW.png"
-featuredImageImage: "https://home-5013997399.app-ionos.space/img/Keanu5foldPath/KeanuBW.png"
+featuredImage: "https://jeffwiegand.online/img/Keanu5foldPath/KeanuBW.png"
+featuredImageImage: "https://jeffwiegand.online/img/Keanu5foldPath/KeanuBW.png"
 
 math:
   enable: false
