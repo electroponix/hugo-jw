@@ -13,8 +13,8 @@ categories: ["Work", "About"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
-featuredImage: ""
-featuredImagePreview: ""
+featuredImage: "https://home-5013997399.app-ionos.space/img/"
+featuredImageImage: "https://home-5013997399.app-ionos.space/img/"
 
 toc:
   enable: true

@@ -14,8 +14,8 @@ categories: ["STLduJour"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
-featuredImage: "http://www.electroponics.com/jwblog/img/CapsBlog/Header01.png"
-featuredImagePreview: "http://www.electroponics.com/jwblog/img/CapsBlog/Header01.png"
+featuredImage: "https://home-5013997399.app-ionos.space/img/http://www.electroponics.com/jwbloghttps://home-5013997399.app-ionos.space/img/CapsBlog/Header01.png"
+featuredImageImage: "https://home-5013997399.app-ionos.space/img/http://www.electroponics.com/jwbloghttps://home-5013997399.app-ionos.space/img/CapsBlog/Header01.png"
 
 toc:
   enable: true

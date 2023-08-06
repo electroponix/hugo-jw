@@ -14,8 +14,8 @@ categories: ["Live"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
-featuredImage: "http://electroponics.com/jwblog/img/live/IguanaSTLzoo.png"
-featuredImagePreview: "http://electroponics.com/jwblog/img/live/IguanaSTLzoo.png"
+featuredImage: "https://home-5013997399.app-ionos.space/img/live/IguanaSTLzoo.png"
+featuredImageImage: "https://home-5013997399.app-ionos.space/img/live/IguanaSTLzoo.png"
 
 toc:
   enable: true

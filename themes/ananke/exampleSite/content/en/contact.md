@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: "images/notebook.jpg"
+featured_Image: "https://home-5013997399.app-ionos.space/img/images/notebook.jpg"
 omit_header_text: true
 description: We'd love to hear from you
 type: page

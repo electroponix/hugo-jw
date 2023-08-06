@@ -1,7 +1,7 @@
 ---
 date: 2017-04-12T11:14:48-04:00
 description: "Master Jacques Coppenole"
-featured_image: ""
+featured_Image: "https://home-5013997399.app-ionos.space/img/"
 tags: ["scene"]
 title: "Chapter IV: Master Jacques Coppenole"
 ---

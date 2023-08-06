@@ -83,8 +83,8 @@ images: []
 tags: []
 categories: []
 
-featuredImage: ""
-featuredImagePreview: ""
+featuredImage: "https://home-5013997399.app-ionos.space/img/"
+featuredImageImage: "https://home-5013997399.app-ionos.space/img/"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

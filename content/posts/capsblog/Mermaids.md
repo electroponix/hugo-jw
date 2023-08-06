@@ -14,8 +14,8 @@ categories: ["CapsBlog"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
-featuredImage: "http://electroponics.com/jwblog/img/CapsBlog/Header01.png"
-featuredImagePreview: "http://electroponics.com/jwblog/img/CapsBlog/Header01.png"
+featuredImage: "https://home-5013997399.app-ionos.space/img/CapsBlog/Header01.png"
+featuredImageImage: "https://home-5013997399.app-ionos.space/img/CapsBlog/Header01.png"
 
 toc:
   enable: true
