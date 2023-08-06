@@ -25,7 +25,7 @@ lightgallery: true
 license: ""
 ---
 
-#DATETIM y-D-a#
+2023-218-AM
 
 ## Begin the Begin
 
