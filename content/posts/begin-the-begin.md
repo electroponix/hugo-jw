@@ -30,9 +30,18 @@ license: ""
 ## Begin the Begin
 
 I've been working on changing up my "infrastructure".
+
 I'm transitioning away from the grandfathered Cloudsites setup that we've been using for 15 years or so.
+
 Also added in the mix is github deployment via ionos.
-To get things rolling, I dusted off the old blog and hooked it up to a workflow.
+
+To get things rolling, I dusted off the old Hugo blog and hooked it up to a workflow.
+
+I've always liked Hugo and it was the first template.
+
+Had to lose all the STLduJournals, because TWITTER IS BROKEN and it wasn't generating pages with embeds in them.
+
+Oh, well.
 
 Much more to come.
 
