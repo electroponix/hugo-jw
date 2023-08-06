@@ -14,8 +14,8 @@ categories: ["STLduJour"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
-featuredImage: "http://electroponics.com/jwblog/img/CapsBlog/Header01.png"
-featuredImagePreview: "http://electroponics.com/jwblog/img/CapsBlog/Header01.png"
+featuredImage: "/img/CapsBlog/Header01.png"
+featuredImagePreview: "/img/CapsBlog/Header01.png"
 
 toc:
   enable: true
@@ -38,18 +38,18 @@ license: ""
 ## Sustainability [♻️](https://stlouist.com/sustainability)
 ## Nature [🦝](https://stlouist.com/node/16389)
 ## STL99 [😱](https://stlouist.com/STL99)
-## STL100 [💯](https://stlouist.com/STL100) 
+## STL100 [💯](https://stlouist.com/STL100)
 ## 99MO [😱](https://stlouist.com/99MO)
-## 100MO [💯](https://stlouist.com/100MO) 
+## 100MO [💯](https://stlouist.com/100MO)
 ## Crime [🗯](https://stlouist.com/crime)
 * SLMPD Daily Crime Report [SLMPD](https://www.slmpd.org/DCAHReport.shtml)
 ## DotGov [🏛](https://stlouist.com/DotGov)
 ### CityGov [🏛](https://stlouist.com/CityGov)
-### LocalGov [🏛](https://stlouist.com/OpenGov) 
-### MoGov [🏛](https://stlouist.com/MoLeg) 
-### FedGov [🏛](https://stlouist.com/OpenGov) 
-## Covid19 Info [🦠](https://stlouist.com/Covid19) 
-## STLhelp [☎️](https://stlouist.com/STLhelp) 
+### LocalGov [🏛](https://stlouist.com/OpenGov)
+### MoGov [🏛](https://stlouist.com/MoLeg)
+### FedGov [🏛](https://stlouist.com/OpenGov)
+## Covid19 Info [🦠](https://stlouist.com/Covid19)
+## STLhelp [☎️](https://stlouist.com/STLhelp)
 ## Jobs [📄](https://stlouist.com/STLhelp/jobs)
 ## History [🦕](https://stlouist.com/History)
 ## Captain's Blog [🏴‍☠️](https://stlouist.com/CapsBlog)
