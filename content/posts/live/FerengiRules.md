@@ -14,7 +14,7 @@ categories: ["Live"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
-featuredImage: "https://home-5013997399.app-ionos.space/img/IguanaSTLzoo.png"
+featuredImage: "https://home-5013997399.app-ionos.space/img/live/IguanaSTLzoo.png"
 featuredImageImage: "https://home-5013997399.app-ionos.space/live/IguanaSTLzoo.png"
 
 toc:
