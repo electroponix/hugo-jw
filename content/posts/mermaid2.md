@@ -1,11 +1,11 @@
 ---
-title: "⏳ STLduJour(nal) - 2023-219-AM Edition"
+title: "Test - 2023-219-AM Edition"
 subtitle: "STL Daily News Snapshots"
 date: 2023-08-07T07:43:20-05:00
 lastmod: 2023-08-07T07:43:20-05:00
 draft: false
 author: "JW"
-authorLink: "https://jeffwiegand.com/"
+authorLink: "https://jeffwiegand.online/"
 description: "JW"
 
 tags: ["mermaid"]
@@ -25,50 +25,13 @@ lightgallery: true
 license: ""
 ---
 
-#DATETIM y-D-a#
+2023-219-AM
 
-Testing a mindmap in mermaid.
+Testing a mindmap in mermaid. (mindmap didn't work, need to check versions)
 
 I think I'll try and do a lunchbox daily update if I can get production time down to 20 min.
 
-
-
-
-{{< mermaid >}}
-mindmap
-  root((JW))
-    Tools
-        Drupal
-        BBedit
-        PhPstorm
-        Terminal
-    Platforms
-        ionos
-        platform.sh
-        Amazon Lightsail
-        Digital Ocean
-        Gitlab
-        GitHub
-        Liquidweb
-        MXroute
-        Route53
-    MU
-      Drupal
-      AWS Sites
-      Google Sites
-      Extension
-   electroponics
-      llastl.org
-      stlouist.com
-      electroponics.com
-      electroponics.net
-      electroponix.com
-      electroponix.net
-      jeffwiegand.com
-      jeffwiegand.online
-      social.stlouist.com
-{{< /mermaid >}}
-
+Seeing a lot of AI on my RSS feeds, so I think I'll have todo some trimming.
 
 
 <!--more-->
