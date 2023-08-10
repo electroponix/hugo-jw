@@ -14,8 +14,8 @@ categories: ["STLduJour"]
 hiddenFromHomePage: false
 hiddenFromSearch: false
 
-featuredImage: "https://home-5013997399.app-ionos.space/img/CapsBlog/Header01.png"
-featuredImageImage: "https://home-5013997399.app-ionos.space/img/CapsBlog/Header01.png"
+featuredImage: "https://jeffwiegand.online/img/CapsBlog/Header01.png"
+featuredImageImage: "https://jeffwiegand.online/img/CapsBlog/Header01.png"
 
 toc:
   enable: true
@@ -25,7 +25,7 @@ lightgallery: true
 license: ""
 ---
 
-#DATETIM y-D-a#
+#DATETIME y-D-a#
 
 <!--more-->
 
@@ -56,5 +56,5 @@ license: ""
 
 ----
 
-Subscribe to the [STLduJour(nal)](https://buy.stripe.com/6oEaICa0O2PO3w4dQQ)
+Chat coming soon?
 
